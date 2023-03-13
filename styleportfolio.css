@@ -1,0 +1,244 @@
+body {
+    width: 1600px;
+        margin: 0 auto;
+}
+.header {
+    display: flex;
+    height: 80px;
+    background: #FFFFFF;
+    border-bottom: 1px solid #ECECEC;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.spanfirst {
+    color: #2196F3;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+}
+
+.spansecond {
+    color: #000000;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+}
+
+.navlist {
+    display: flex
+}
+
+.navlink {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #2196F3;
+    padding-left: 93px;
+
+
+}
+
+.navlink2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+    padding-left: 46px;
+}
+
+.navlink3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+    padding-left: 46px;
+    padding-right: 371px;
+}
+
+.maillink {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #2196F3;
+}
+
+.tellink {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;
+    padding-left: 50px;}
+    .button1 {
+        width: 121px;
+            height: 38px;
+            background: #2196F3;
+             
+                border-radius: 4px;
+                font-family: 'Roboto';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 16px;
+                    line-height: 26px;
+                    text-align: center;
+                    letter-spacing: 0.03em;
+                
+                    color: #FFFFFF;
+                    border: none;
+                    
+                    cursor:pointer;
+    }
+    .button2 {
+
+    width: 93px;
+    height: 38px;
+    background: #F5F4FA;
+        border-radius: 4px;
+        font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 26px;
+            text-align: center;
+            letter-spacing: 0.03em;
+        border:none;
+        margin-left: 8px;}
+.buttonsection {
+        display: flex;
+        justify-content: center;
+    margin-bottom: 56px;}
+h2 
+        {font-family: 'Roboto';
+        font-style: Bold;
+        font-weight: 30px;
+        font-size: 18px;
+        line-height: 36px;
+    color: #212121;
+    padding-left: 24px;
+
+}
+        
+.imgnet {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    
+
+}
+    
+p {font-family: 'Roboto';
+    font-style: Regular;
+    font-weight: 30px;
+    font-size: 16px;
+    line-height: 31px;
+    color: #757575;
+padding-left: 24px;}
+
+.spanfooter1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+   
+
+    letter-spacing: 0.03em;
+
+    color: #2196F3;
+}
+
+.spanfooter2 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    
+
+    letter-spacing: 0.03em;
+    color: #FFFFFF
+}
+
+.footeradres {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+    padding-top: 20px;
+}
+
+.footermail {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-decoration-line: underline;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.footertel {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+
+    color: rgba(255, 255, 255, 0.6);
+}
+.divfooter {
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    background: #2F303A;
+}
+.boxes {
+    border: 1px solid #EEEEEE;
+    height: 404px;
+    width: 370px;
+    
+}
+.adersslink {
+    display: flex;
+    flex-direction: column;
+}
